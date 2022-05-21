@@ -1,3 +1,3 @@
 # Covid19-Data-Analysis-Using-Python
-⚠️ Disclaimer ⚠️
-Please, don't fork or copy this repository.
+Disclaimer
+Please, Do NOT fork or copy this repository.
